@@ -24,4 +24,4 @@
 5. В терминале в папке с проектом test_praded458.py импорт библиотек import pytest и import requests команда pip install requests и pip install pytest
 
 ### 
-Fвтор Сергей Авдеев
+Автор Сергей Авдеев
